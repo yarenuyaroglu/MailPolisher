@@ -7,7 +7,7 @@ Polish your emails into professional, clear, and well-toned messages with AI.
 ---
 
 <p align="center">
-  <img src="screensGifs/composeGIF.gif" width="400" alt="Compose demo" style="margin-right:20px;">
+  <img src="screensGifs/composeGIF.gif" width="400" alt="Compose demo" style="margin-right:60px;">
   <img src="screensGifs/ResultGIF.gif" width="400" alt="Result demo">
 </p>
 
