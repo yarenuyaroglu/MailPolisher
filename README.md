@@ -40,4 +40,8 @@ Polish your emails into professional, clear, and well-toned messages with AI.
 - **Security** – dotenv for API keys, CORS & rate limiting enabled  
 
 ---
+### Backend Availability  
+⚠️ The backend API used in this project is **private** for security and cost reasons.  
+This repository only contains the **iOS frontend**.  
+
 ✨ *Built with SwiftUI + Flask + AI*  
